@@ -1,1 +1,3 @@
 https://www.filipeflop.com/blog/esp8266-gravando-dados-memoria-flash/
+https://portal.vidadesilicio.com.br/eeprom-esp8266-memoria-nao-volatil/
+http://renatoaloi.blogspot.com/2016/05/tratando-post-no-web-server-do-esp8266_13.html
